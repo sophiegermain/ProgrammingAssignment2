@@ -1,5 +1,10 @@
-## Put comments here that give an overall description of what your
-## functions do
+### R Programming: Programming Assignment 2
+### Jorien van den Bergh
+
+##############################################################################
+#### 1. Merge the training and the test sets to create one data set###########
+##############################################################################
+
 
 ## Write a short comment describing this function
 
